@@ -1,6 +1,7 @@
 import Caixa from "@/components/basicos/Caixa";
 import Circulo from "@/components/basicos/Circulo";
 import Evento from "@/components/basicos/Evento";
+import ImagemAleatoria from "@/components/basicos/hooks/ImagemAleatoria";
 
 export default function Home() {
   return (
